@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter WebView',
+      title: 'Zoy Business',
       theme: ThemeData(visualDensity: VisualDensity.adaptivePlatformDensity),
       home: const WebViewApp(),
       debugShowCheckedModeBanner: false,
@@ -38,7 +38,7 @@ class _WebViewAppState extends State<WebViewApp> {
   late WebViewController _controller;
   bool _isLoading = false;
 
-  final String _initialUrl = 'https://ssmmadmin.in/';
+  final String _initialUrl = 'https://zoybiz.com/';
 
   @override
   void initState() {
