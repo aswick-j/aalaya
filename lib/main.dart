@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter WebView',
+      title: 'SSMM ADMIN',
       theme: ThemeData(visualDensity: VisualDensity.adaptivePlatformDensity),
       home: const WebViewApp(),
       debugShowCheckedModeBanner: false,

@@ -1,4 +1,4 @@
-package com.example.aalaya
+package com.t2g.ssmmadmin
 
 import io.flutter.embedding.android.FlutterActivity
 
