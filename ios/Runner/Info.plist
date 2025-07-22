@@ -43,5 +43,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+<key>NSCameraUsageDescription</key>
+<string>We use the camera to allow you to take photos for uploading items, updating your profile, or scanning when needed.</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We use your photo library so you can select images for uploads, profile customization, or other app features.</string>
+
 </dict>
 </plist>
