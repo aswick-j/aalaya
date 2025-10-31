@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.t2g.zoybusiness"
+        applicationId = "com.t2g.crm"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
