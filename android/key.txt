@@ -1,0 +1,4 @@
+storePassword=password
+keyPassword=password
+keyAlias=upload
+storeFile=/Users/aswickjothi/zoy_business_erp_key.jks
